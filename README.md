@@ -1,9 +1,5 @@
 # 📊 Data Science Learning Journey
 
-Welcome to my Data Science repository! 🚀  
-This repository documents my complete journey of learning Data Science — from fundamentals to advanced concepts — through hands-on practice, projects, and real-world problem solving.
-
-I created this repository to track my progress, build consistency, and showcase my practical understanding of data-driven technologies.
 
 ---
 
