@@ -12,7 +12,14 @@ I created this repository to track my progress, build consistency, and showcase 
 
 This repository includes:
 
-
+- 🐍 Python Programming (Basics to Advanced)
+- 🔁 Functions & Recursion
+- 📦 NumPy & Pandas
+- 📊 Data Visualization (Matplotlib / Seaborn)
+- 📈 Statistics & Probability
+- 🤖 Machine Learning Concepts
+- 🧠 Deep Learning Basics
+- 📁 Practice Notebooks & Mini Projects
 
 Each notebook reflects my learning progress with proper explanations and clean code.
 
