@@ -27,14 +27,6 @@ Each notebook reflects my learning progress with proper explanations and clean c
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Git & GitHub
 
 ---
 
