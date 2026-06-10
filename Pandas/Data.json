@@ -1,0 +1,23 @@
+{
+  "student": {
+    "name": "Rehan",
+    "age": 20,
+    "class": "BCA 2nd Year",
+    "rollNumber": 101,
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "subjects": [
+      "Maths",
+      "Computer Science",
+      "English",
+      "Physics"
+    ],
+    "contact": {
+      "phone": "9876543210",
+      "email": "rehan@example.com"
+    }
+  }
+}
